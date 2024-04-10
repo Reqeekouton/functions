@@ -1,87 +1,83 @@
-# Temporary Site Rules Amendment VI English Version
-> If there are discrepancies, Chinese version shall prevail.
+# Temporary Site Rules Amendment No. 7 Chinese Version
+> If there are differences in versions, please follow this one.
 
-## I. Preamble  
-> To regulate user behavior and maintain site order, combining experience and rules from the old site, implementing the principle of "maximum freedom" by Anonymoususer and the "keep it simple" theory by 4n0n4me, after discussions by the site owner group and the site management team, these site rules are established.
+#### - Chapter I General Provisions -
 
-## II. Permitted Behaviors
-You are free to do the following on this forum:
+---
 
- (I) Discuss content on Note.ms;
- 
- (II) Discuss methods for dealing with destructive organizations;
- 
- (III) Or just chat.
+Article 1 In order to regulate user behavior, maintain website order, and implement the principles of "maximum freedom" advocated by Anonymoususer and "keep it simple" theory proposed by 4n0n4me, combined with the management experience and rules of the old site, after discussions by the site owners and the site management team, these site rules are formulated.
 
-## III. Prohibited Behaviors
+Article 2 The penalties for violations stipulated in these site rules shall be governed by the provisions of these site rules; in the absence of provisions in these site rules, they shall be discussed and determined by two or more management personnel.
+In the case of serious violations as mentioned above, the management personnel are allowed to impose penalties up to the maximum without discussion.
 
-### (I) Strictly Prohibited
-No one is allowed to do the following on this forum:
- 1. Post/communicate content that violates the laws and administrative regulations of the People's Republic of China;
- 2. Post/communicate restricted content;
- 3. Provide computer virus programs without explanation;
- 4. Post/communicate any political, military-related content or content that implies such themes.
+Article 3 Violations occurring on NOTE.MSBBS and Note.ms pages affiliated with this site, unless otherwise specified or deemed necessary by the site management team or site owners, shall be subject to the relevant provisions of these site rules.
+For violations occurring outside this site involving members of this site, the punishment of members of this site shall be subject to the relevant provisions of these site rules, unless otherwise specified.
 
-For the above content, in severe cases, we may report to the law enforcement authorities of the People's Republic of China.
+Article 4 Punishment for violators must be based on facts and be proportionate to the seriousness of the violation, circumstances, and impact.
+When imposing penalties on violators, it should be fair, open, and respectful, and the human rights and dignity of the violators should be respected and protected.
 
-### (II) Prohibited
-You should not do the following on this forum:
- 1. Insult/attack others;
- 2. Attempt to use code to destroy the forum;
- 3. Repeatedly post the same content in large quantities, affecting others' reading experience (spamming).
-    - Posting a small amount of non-repetitive, low-value content does not fall under this category.
- 5. Impersonate others for deception, especially if it's for obtaining technology, permissions, or impersonating administrators/famous individuals, which will be severely punished. If it constitutes fraud, it will be handled according to the third section, second clause.
- 6. Post sensitive technology in public areas, which if discovered by the destructors and causes certain consequences
+#### - Chapter II Types of Penalties and Related Provisions -
 
-### (III) Other Actions We Prefer You Not to Take
- 1. Knowingly apply for permissions without meeting the requirements;
- 2. Destroy note.ms pages.
-    - This is a great disrespect to the labor of the page maintainers, so it will be severely punished, and maliciously modifying others' messages also falls under this category.
+---
 
-## IV. Measures
+Article 5 The penalties on this site are as follows:
+(1) Warning;
+(2) Hiding;
+(3) Removal of membership;
+(4) Ban;
+(5) Blacklisting IP.
 
-(I) For "Permitted Behaviors," the site management team will provide support and will prevent users attempting to disrupt such behaviors when necessary;
+Article 6 Violations of these site rules under the following circumstances should be mitigated or not punished:
+(1) Consequences are particularly minor;
+(2) Actively mitigating the consequences of violations;
+(3) Obtaining forgiveness from the victim;
+(4) Under coercion from others;
+(5) Other circumstances deemed appropriate by the site management team or site owners.
 
-(II) For "Strictly Prohibited," the site management team will issue at most one warning. Repeat offenders will not be warned and will be directly banned. In severe cases, we will report to the law enforcement authorities of the People's Republic of China;
+Article 7 Violations of these site rules under the following circumstances should be aggravated:
+(1) Consequences are severe;
+(2) Coercing others to violate these site rules;
+(3) Retaliating against management personnel, victims, or whistleblowers;
+(4) Violating rules three times or more within three months;
+(5) Other circumstances deemed appropriate by the site management team or site owners.
 
-(III) For "Prohibited," the site management team will impose penalties based on the situation, including: warnings, hiding posts, bans ranging from three days to 365 days, removal of membership, etc. Penalties for repeat offenders should be increased accordingly.
+#### - Chapter III Violations and Penalties and Supported Actions -
 
-(IV) Supplementary Measures
-- For meaningless permission applications, the site management team can conduct a violation group review;
-- For those who repeatedly post a large amount of content affecting others' reading experience, after warnings prove ineffective, a ban from two to ten days will be imposed.
-- For destroying Note.ms pages, in addition to the penalties mentioned above, the protection organization will be commissioned to investigate and combat, and their misdeeds will be publicized. If the destroyer is not a site member but has damaged a page with certain connections to the site, the site can publicize their misdeeds and commission the protection organization to investigate and combat. If this person joins the site later, they will be immediately banned.
+---
 
-## V. Classification and Details of Penalties on This Site
+Article 8 The following behaviors are subject to penalties including warning, hiding, removal of membership, or ban (not exceeding 365 days):
+(1) Insulting or demeaning others;
+(2) Posting a large number of repetitive, valueless, unreadable content affecting others' reading;
+   - Posting a large amount of non-repetitive and readable content does not fall into this category.
+(3) Impersonating others' identities, with heavier penalties if done for the purpose of deceiving permissions or secret techniques, or impersonating administrators or famous persons;
+   - If constituting fraud, we will report to the law enforcement agencies of the People's Republic of China.
+(4) Posting sensitive technical content in public areas;
+(5) Spreading rumors;
+(6) Applying for permissions knowingly without meeting the conditions;
+(7) Attempting to disrupt the forum;
+(8) Posting commercial promotional content or profit-making advertisements;
+(9) Posting a large amount of non-commercial promotional content or profit-making advertisements;
+(10) Damaging or destroying Note.ms pages.
 
-(I) Warning
-(II) Hiding
-(III) Ban
-(IV) Removal of Membership
-(V) Blacklisting IP
+Article 9 The following behaviors are subject to penalties including warning (at most once), ban, or blacklisting IP:
+(1) Placing or communicating content that violates the laws and regulations of the People's Republic of China;
+(2) Placing or communicating restricted content;
+(3) Providing computer viruses without explanation;
+(4) Placing or communicating any political or military-related content or metaphorical content related to these content.
 
-### (VI) Penalty Details
-Unless it is content specified in the "Prohibited Behaviors" section, or behavior that most people consider to be a significant principled error, penalties should not be imposed.
+For violations specified in this article and the circumstances are serious, we will report to the law enforcement agencies of the People's Republic of China.
 
-### (VII) Ban Details
-1. Bans are targeted at individuals, not usernames or IP ranges. If one account of an individual is penalized, other accounts will be penalized simultaneously;
-2. Bans of 60 days or less and bans resulting from "Strictly Prohibited" behaviors can be decided by a single administrator;
-3. Bans exceeding 60 days are to be decided by any member of the site management team.
+Article 10 We welcome you to:
+(1) Discuss the content on Note.ms;
+(2) Discuss ways to deal with destructive organizations;
+(3) Chat.
 
-## VI. Appeals
-If you are dissatisfied with or have questions about the penalty, you should first inquire with the management personnel who penalized you. If you still believe the penalty is unreasonable or have questions after inquiring, you can directly appeal to the site owner group via email, posts, or the feedback function.
+For the behaviors specified in this article, the site management team firmly supports them and will intervene to prevent users from disrupting such behaviors if necessary.
 
-- Specifically, for penalties resulting from "Prohibited Behaviors," if the penalty was imposed by a single administrator, involves no more than three users, and all are site members, you can appeal to the chief administrator (provided the chief administrator is not involved in the dispute).
+#### - Chapter IV Appeal and Arbitration -
 
-## VII. Jury
-If you are still dissatisfied with the appeal result, you can request a jury with the support of one management personnel or three verified members.
+---
 
-### (I) Details on Jury
-1. The jury is organized by the site owner group;
-2. The jury requires at least half of the administrators to participate, and you can also request one to two verified members to participate;
-3. The jury's decision is final and cannot be appealed.
+Article 11 If you are dissatisfied with or have questions about the penalty, you should first inquire with the administrator who imposed the penalty. If you still believe that the penalty imposed on you is unreasonable or if you still have questions after the inquiry, you can appeal directly to the site owners through email, posts, or feedback.
 
-### (II) Malicious Appeals
-If the facts are clear and the evidence is conclusive, and the person still appeals with an extremely bad attitude, the site owner group can extend the penalty period to 1.2 to 1.5 times the original and revoke the right to appeal.
-
-## Note: By registering an account, you indicate that you have carefully read and fully agree to the site rules.
-
+Specifically, for penalties resulting from behaviors specified in Article 9 of these rules,
