@@ -79,5 +79,65 @@ For the behaviors specified in this article, the site management team firmly sup
 ---
 
 Article 11 If you are dissatisfied with or have questions about the penalty, you should first inquire with the administrator who imposed the penalty. If you still believe that the penalty imposed on you is unreasonable or if you still have questions after the inquiry, you can appeal directly to the site owners through email, posts, or feedback.
+the appeal can be made to the Chief Administrator, provided that the penalty was imposed by a single administrator, the number of involved users does not exceed three, and all involved users are members of the website, provided that the Chief Administrator is not involved in the conflict.
 
+Article 12 If you are still dissatisfied with the outcome of the appeal, you can request arbitration with the support of one management personnel or three verified members.
+
+Article 13 The arbitration rules are as follows:
+(1) Arbitration shall be organized by the site owners;
+(2) At least half of the administrators shall participate in the arbitration, and you can also request the participation of one to two verified members;
+(3) The arbitration decision is final and cannot be appealed.
+
+Article 14 If the facts are clear and the evidence is conclusive, and the parties still demonstrate an extremely negative attitude during the arbitration, the site owners may increase the duration of the penalty to 1.2 times to 1.5 times of the original duration and deprive them of the right to appeal.
+
+#### - Chapter V Impeachment of Website Administrators -
+
+---
+
+Article 15 When you discover or believe that any one or more website administrators have engaged in the following behaviors, you can initiate impeachment proceedings against that administrator(s) through the site management team or the site owners:
+(1) Abuse of power;
+(2) Violation of site rules;
+(3) Dereliction of duty or poor management;
+(4) Lack of transparency or communication in certain decisions or punishments towards members;
+(5) Serious violations outside the website.
+
+Article 16 The specific procedures for impeachment are as follows:
+(1) Submitting a request, you can submit materials requesting impeachment of the administrator(s) to the site management team or the site owners. In the submitted materials, please state the facts of the violation by the administrator(s), provide specific evidence, and other materials required for the penalty;
+(2) Material review and violation investigation, after your materials are submitted to and accepted by the site management team or the site owners, the site management team or the site owners will start reviewing the information in your materials to determine the authenticity of the content, and at the same time, start investigating the violations stated in the materials;
+(3) Notification of the accused, when the content of the materials is confirmed to be true, the site management team or the site owners will notify the accused and ask for an explanation or defense. If the majority of the site management team or the site owners believe that their explanation or defense is not valid, they will proceed to the next procedure;
+(4) Penalty assessment, in this procedure, the site management team, the site owners, and some invited verified members will discuss and evaluate various aspects of the severity of the violation by the accused, the impact caused, etc., and determine the final penalty and the penalty announcement period;
+(5) Penalty announcement, when the final penalty for the accused is determined, we will publish a notice post to announce the penalty imposed on them. In this procedure, any member can discuss the penalty imposed on the accused, including but not limited to whether the penalty is reasonable, etc. If there are too many opposing members, we will conduct another penalty assessment procedure;
+(6) Imposition of the penalty, when the penalty announcement procedure ends and there are fewer opposing members, we will impose the penalty on the accused as announced.
+
+Article 17 During the impeachment process, the accused administrator(s) shall be temporarily suspended from duty and shall not participate in any procedures except for "notification of the accused."
+
+Article 18 All conversation records, meeting records, and discussion records during the impeachment process shall be archived.
+
+Article 19 The site management team and the site owners should protect the information of the impeacher, except for those requested by the impeacher.
+
+Article 20 It is prohibited to impeach the same administrator(s) for the same violation more than three times.
+
+Article 21 During the impeachment process execution, there must be at least one site owner and two site management team members online.
+
+Article 22 Providing false materials for impeachment, once verified, the penalty will be determined by the site management team and the site owners after consultation.
+
+#### - Chapter VI Additional Provisions -
+
+---
+
+Article 23 Additional penalties for certain violations:
+(1) For meaningless application for permissions, the site management team may conduct a review of the violator's group.
+(2) For repeatedly posting a large amount of repetitive content affecting others' reading after the warning from the site management team, a punishment of banning access for a period of two to ten days shall be imposed.
+(3) For damaging Note.ms pages, in addition to the punishment specified in the preceding paragraph, the protection group shall be entrusted to investigate and combat, and their misconduct shall be publicized. If the perpetrator is not a member of the website but has damaged pages related to the website, the misconduct shall be publicized, and the protection group shall be entrusted to investigate and combat. If this person subsequently joins the website, they shall be immediately banned.
+
+Article 24 Detailed rules on bans:
+(1) Bans are targeted at individuals, not usernames or IP ranges. If the same person has multiple accounts, one of them is penalized, and the penalties for other accounts are synchronized.
+(2) Bans of 60 days or less and bans resulting from behaviors specified in Article 7 of these rules can be determined by a single administrator.
+(3) Bans exceeding 60 days shall be decided by any member of the site owners.
+
+Article 25 By registering an account, you have carefully read and fully agreed to these site rules.
+
+Article 26 The terms "above," "below," and "within" in these site rules include the specified numbers themselves.
+
+Article 27 These site rules shall be effective as of April 9, 2024. The temporary site rules amendment No. 6 announced on February 21, 2024, are simultaneously abolished.
 Specifically, for penalties resulting from behaviors specified in Article 9 of these rules,
