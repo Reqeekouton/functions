@@ -1,5 +1,6 @@
 # Temporary Site Rules Amendment No. 7 English Version
-> If there are differences in versions, please follow this one.
+> If there are differences in versions, please follow this one.<br>
+> ***This entire text was translated by ChatGPT.***
 
 #### - Chapter I General Provisions -
 
